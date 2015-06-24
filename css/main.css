@@ -1,0 +1,15 @@
+
+.features .glyphicon{
+	font-size:22px;
+	color:red;
+	
+}
+
+body{
+	padding-top: 70px;
+	font-family: "Microsoft JhengHei";
+}
+footer{
+	background-color:black;
+	color:white;
+}
